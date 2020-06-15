@@ -1,3 +1,5 @@
+# Check how the app works (i.e truecaller) and start sending request until it crashes, making it maybe possible to exploit the phone. 
+# This example is how truecaller app works, website may be different code
 #!/usr/bin/python3
 import requests
 import json
